@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="chapter4" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>TBA</title>
+
+  <introduction>
+ <p>The <m>n^\text{th}</m> order linear differential equations are of the form</p>
+
+  </introduction>
+
+  <!-- include sections -->
+  <!-- <xi:include href="chapter4-section1.ptx" />
+  <xi:include href="chapter4-section2.ptx" />
+  <xi:include href="chapter4-section3.ptx" /> -->
+
+</chapter>

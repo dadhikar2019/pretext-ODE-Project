@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="ch-chapter-title" xmlns:xi="http://www.w3.org/2001/XInclude">
+<chapter xml:id="chapter3" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Second and Higher Order Linear Differential Equations</title>
 
   <introduction>
-    <p> Text before the first section. </p>
+    <p> Text before the first section. This is an introduction to the chapter. </p>
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="section3-1.ptx" />
- 
+  <xi:include href="chapter3-section1.ptx" />
+  <xi:include href="chapter3-section2.ptx" />
+  <xi:include href="chapter3-section3.ptx" />
 
 </chapter>

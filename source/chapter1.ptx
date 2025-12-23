@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="chapter1" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Introduction</title>
+
+  <introduction>
+    <p> Text before the first section. This is an introduction to the chapter. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="chapter1-section1.ptx" />
+  <xi:include href="chapter1-section2.ptx" />
+  <xi:include href="chapter1-section3.ptx" />
+ 
+
+</chapter>
