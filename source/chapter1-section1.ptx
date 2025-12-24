@@ -3,8 +3,16 @@
 <section xml:id="chapter1-section1" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>What is an ordinary differential equation?</title>
 
-  <p> Text of section. </p>
+  <p> This is a test page </p>
  <p>
     <m>a^2+b^2= c^2</m>
   </p>
+  <figure xml:id="fig-my-pdf-include">
+    <caption when="print">A page from the attached PDF document.</caption>
+    <image source="beats.pdf" width="50%" when="print">
+        <description>A brief description of the visual content in the PDF page.</description>
+    </image>
+</figure>
+
+
 </section>
